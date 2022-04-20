@@ -6,3 +6,7 @@ My learning note for SAP-C01
 https://aws.amazon.com/blogs/aws/new-manage-dynamodb-items-using-time-to-live-ttl/
 2. A Solutions Architect has recommended that a Route 53 health check be performed. The health check must detect a specific text on an endpoint. 
 => HTTP response code 2xx or 3xx, The specific text string must appear within the first 5120 bytes of the response.
+
+
+### AWS Client VPN
+- Create a VPN Endpoint associates with one subnet.
